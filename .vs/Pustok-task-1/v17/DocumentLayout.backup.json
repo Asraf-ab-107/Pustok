@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\helpers\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\helpers\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\views\\myviewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\views\\myviewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|c:\\users\\user\\source\\repos\\pustok-task-1\\pustok-task-1\\areas\\manage\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695D2C78-92E6-44E5-9064-5C46FE5CCA85}|Pustok-task-1\\Pustok-task-1.csproj|solutionrelative:pustok-task-1\\areas\\manage\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Helpers\\FileExtension.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Helpers\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Helpers\\FileExtension.cs",
+              "RelativeToolTip": "Pustok-task-1\\Helpers\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:28:38.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T11:33:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:54:09.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwE4AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:46:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Models\\Slider.cs",
+              "RelativeToolTip": "Pustok-task-1\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:23:02.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pustok-task-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:05:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T05:21:25.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwCsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:19:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T11:52:44.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T05:21:16.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Views\\myViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Views\\myViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Views\\myViewModels\\HomeVm.cs",
+              "RelativeToolTip": "Pustok-task-1\\Views\\myViewModels\\HomeVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:06:56.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Models\\Catagory.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Models\\Catagory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Models\\Catagory.cs",
+              "RelativeToolTip": "Pustok-task-1\\Models\\Catagory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:22:03.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Pustok-task-1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:31:21.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Pustok-task-1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Pustok-task-1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T09:31:29.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Program.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Program.cs",
+              "RelativeToolTip": "Pustok-task-1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:31:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:19:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CatagoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Controllers\\CatagoryController.cs",
+              "RelativeDocumentMoniker": "Pustok-task-1\\Areas\\Manage\\Controllers\\CatagoryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pustok-task-1\\Pustok-task-1\\Areas\\Manage\\Controllers\\CatagoryController.cs",
+              "RelativeToolTip": "Pustok-task-1\\Areas\\Manage\\Controllers\\CatagoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:50:46.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

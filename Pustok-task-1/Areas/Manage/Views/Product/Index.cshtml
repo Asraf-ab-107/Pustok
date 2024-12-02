@@ -1,0 +1,42 @@
+﻿@model List<Product>
+@{
+    int Count = 0;
+}
+<div class="container">
+    <h3>Product</h3>
+    <a class="btn btn-secondary" asp-action="create">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Id</th>
+                <th scope="col">ProductTitle</th>
+                <th scope="col">Catagory</th>
+                <th scope="col">ProductCode</th>
+                <th scope="col">Authort</th>
+                <th scope="col">TagProducts</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                Count++;
+                <tr>
+                    <th scope="row">1</th>
+                    <td>@item.Id</td>
+                    <td>@item.ProductTitle</td>
+                    <td>@item.Catagory.Name</td>
+                    <td>@item.ProductCode</td>
+                    <td>@item.Author</td>
+                    <td>
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="update" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

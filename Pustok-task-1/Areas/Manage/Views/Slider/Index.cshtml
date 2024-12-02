@@ -1,0 +1,43 @@
+﻿@model List<Slider>
+@{
+    int Count = 0;
+}
+<div class="container">
+    <h3>Slider</h3>
+    <a class="btn btn-secondary" asp-action="create">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Id</th>
+                <th scope="col">Author</th>
+                <th scope="col">Author2</th>
+                <th scope="col">buttonText</th>
+                <th scope="col">image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                Count++;
+                <tr>
+                    <th scope="row">1</th>
+                    <td>@item.Id</td>
+                    <td>@item.Author</td>
+                    <td>@item.Author2</td>
+                    <td>@item.buttonText</td>
+                    <td>
+                        <div style="width:100px">
+                            <img style="width:100%" src="~/image/bg-images/@item.ImgUrl" alt="Alternate Text" />
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="update" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

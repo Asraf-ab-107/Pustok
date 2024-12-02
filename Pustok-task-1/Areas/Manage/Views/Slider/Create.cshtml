@@ -1,0 +1,31 @@
+﻿@model Slider
+<div class="container" enctype="multipart/form-data">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Author">Author</label>
+            <input class="form-control" asp-for="Author">
+            <span asp-validation-for="Author" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Author2">Author2</label>
+            <input class="form-control" asp-for="Author2">
+            <span asp-validation-for="Author2" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="info">info</label>
+            <input class="form-control" asp-for="info">
+            <span asp-validation-for="info" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="buttonText">buttonText</label>
+            <input class="form-control" asp-for="buttonText">
+            <span asp-validation-for="buttonText" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="File">image File</label>
+            <input class="form-control" asp-for="File">
+            <span asp-validation-for="File" style="color:red"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
